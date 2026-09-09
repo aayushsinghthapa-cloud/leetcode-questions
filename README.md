@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3871-count-commas-in-range-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3871-count-commas-in-range-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
