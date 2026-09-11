@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -17,15 +18,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Array
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
@@ -56,4 +60,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
