@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Sorting
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
