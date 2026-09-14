@@ -10,7 +10,4 @@ class Solution(object):
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
-
-            if fast == None or fast.next == None:
-                return slow
-        return head
+        return slow
