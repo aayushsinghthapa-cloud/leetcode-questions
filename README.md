@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
