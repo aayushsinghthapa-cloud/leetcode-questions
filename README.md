@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0206-reverse-linked-list) |
