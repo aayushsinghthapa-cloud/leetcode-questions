@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0009-palindrome-number) |
 | [0836-rectangle-overlap](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0836-rectangle-overlap) |
 | [3871-count-commas-in-range-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3871-count-commas-in-range-ii) |
 ## Binary Search
