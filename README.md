@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0009-palindrome-number) |
+| [0367-valid-perfect-square](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0836-rectangle-overlap) |
 | [3871-count-commas-in-range-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3871-count-commas-in-range-ii) |
 ## Binary Search
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Interactive
