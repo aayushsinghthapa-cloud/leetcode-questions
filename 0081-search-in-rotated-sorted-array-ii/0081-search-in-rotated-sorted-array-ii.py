@@ -8,7 +8,7 @@ class Solution(object):
             if nums[mid] == target:
                 return True
 
-            # 🔴 handle duplicates
+            # handle duplicates
             if nums[left] == nums[mid] == nums[right]:
                 left += 1
                 right -= 1
