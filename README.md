@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0392-is-subsequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Sorting
 |  |
@@ -147,11 +148,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
