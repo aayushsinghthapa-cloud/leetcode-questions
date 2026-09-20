@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0735-asteroid-collision](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
 ## Math
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0143-reorder-list) |
+| [0735-asteroid-collision](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0735-asteroid-collision) |
 ## Bracket Sequences
 |  |
 | ------- |
