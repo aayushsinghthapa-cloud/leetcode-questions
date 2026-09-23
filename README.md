@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0076-minimum-window-substring) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0125-valid-palindrome) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
