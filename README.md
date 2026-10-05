@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0189-rotate-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0441-arranging-coins) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0735-asteroid-collision) |
 ## Bracket Sequences
 |  |
