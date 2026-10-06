@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0888-fair-candy-swap](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0888-fair-candy-swap) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0567-permutation-in-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Sorting
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
