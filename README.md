@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0912-sort-an-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
