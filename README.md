@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1929-concatenation-of-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
