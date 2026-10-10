@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0567-permutation-in-string) |
+| [1408-string-matching-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1408-string-matching-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3110-score-of-a-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3110-score-of-a-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1408-string-matching-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1408-string-matching-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1929-concatenation-of-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0572-subtree-of-another-tree) |
+| [1408-string-matching-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1408-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
