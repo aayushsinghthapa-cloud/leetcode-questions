@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1408-string-matching-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3110-score-of-a-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3110-score-of-a-string) |
 ## Sorting
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1929-concatenation-of-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
 |  |
 | ------- |
