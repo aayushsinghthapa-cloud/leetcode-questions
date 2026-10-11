@@ -1,11 +1,11 @@
 class Solution(object):
     def addSpaces(self, s, spaces):
-        spaces = spaces[::-1]
         res = []
+        j = 0                                         # next space index we're waiting for
 
-        for i in range(len(s)):
-            if spaces and i == spaces[-1]:   # is a space due before this character?
+        for i, c in enumerate(s):
+            if j < len(spaces) and i == spaces[j]:
                 res.append(" ")
-                spaces.pop()                 # done with this index, expose the next one
-            res.append(s[i])                 # the character is always added
+                j += 1
+            res.append(c)
         return "".join(res)
