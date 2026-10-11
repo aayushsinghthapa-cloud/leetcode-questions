@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1408-string-matching-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1408-string-matching-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1701-average-waiting-time](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1701-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0735-asteroid-collision) |
+| [1701-average-waiting-time](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1701-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
 ## Math
