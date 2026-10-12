@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0912-sort-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 ## Counting
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1701-average-waiting-time](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1701-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1929-concatenation-of-array) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2109-adding-spaces-to-a-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
