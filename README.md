@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0118-pascals-triangle) |
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
