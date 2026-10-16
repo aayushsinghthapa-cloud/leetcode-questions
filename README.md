@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2678-number-of-senior-citizens](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3110-score-of-a-string) |
 ## Sorting
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2678-number-of-senior-citizens](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2678-number-of-senior-citizens) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
