@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0888-fair-candy-swap) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Counting
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2678-number-of-senior-citizens](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2678-number-of-senior-citizens) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
 | ------- |
