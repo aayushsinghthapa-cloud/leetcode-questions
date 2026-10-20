@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0791-custom-sort-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0791-custom-sort-string) |
+| [0853-car-fleet](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0853-car-fleet) |
 | [0888-fair-candy-swap](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0912-sort-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0853-car-fleet](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0853-car-fleet) |
 | [0888-fair-candy-swap](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0912-sort-an-array) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0853-car-fleet) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0853-car-fleet) |
 ## Trie
 |  |
 | ------- |
