@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0901-online-stock-span) |
 ## Trie
 |  |
 | ------- |
@@ -440,8 +442,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0901-online-stock-span](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0901-online-stock-span) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
