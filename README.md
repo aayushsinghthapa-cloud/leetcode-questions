@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0739-daily-temperatures) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0901-online-stock-span) |
 ## Randomized
