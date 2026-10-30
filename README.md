@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1598-crawler-log-folder](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1598-crawler-log-folder) |
 | [1701-average-waiting-time](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1701-average-waiting-time) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1929-concatenation-of-array) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2109-adding-spaces-to-a-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2109-adding-spaces-to-a-string) |
