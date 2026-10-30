@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0735-asteroid-collision) |
 | [1701-average-waiting-time](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1701-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1929-concatenation-of-array) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0394-decode-string) |
+| [0682-baseball-game](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0853-car-fleet) |
