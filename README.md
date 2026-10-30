@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0791-custom-sort-string) |
 | [1408-string-matching-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1408-string-matching-in-an-array) |
+| [1598-crawler-log-folder](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1598-crawler-log-folder) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2109-adding-spaces-to-a-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1408-string-matching-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1598-crawler-log-folder](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1598-crawler-log-folder) |
 | [1701-average-waiting-time](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1701-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1929-concatenation-of-array) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0901-online-stock-span) |
+| [1598-crawler-log-folder](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1598-crawler-log-folder) |
 ## Bracket Sequences
 |  |
 | ------- |
