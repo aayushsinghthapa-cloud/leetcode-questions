@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0791-custom-sort-string) |
 | [0888-fair-candy-swap](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0888-fair-candy-swap) |
+| [0929-unique-email-addresses](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0929-unique-email-addresses) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0791-custom-sort-string) |
+| [0929-unique-email-addresses](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0929-unique-email-addresses) |
 | [1408-string-matching-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1408-string-matching-in-an-array) |
 | [1598-crawler-log-folder](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1598-crawler-log-folder) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0912-sort-an-array) |
+| [0929-unique-email-addresses](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0929-unique-email-addresses) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
