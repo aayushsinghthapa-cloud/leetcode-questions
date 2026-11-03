@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0229-majority-element-ii) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -418,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0229-majority-element-ii) |
 ## Merge Sort
 |  |
