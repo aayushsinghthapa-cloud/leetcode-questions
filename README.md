@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0929-unique-email-addresses) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1408-string-matching-in-an-array) |
 | [1598-crawler-log-folder](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1598-crawler-log-folder) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Array
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1929-concatenation-of-array) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2161-partition-array-according-to-given-pivot) |
