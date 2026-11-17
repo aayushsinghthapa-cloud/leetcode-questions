@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2965-find-missing-and-repeated-values](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2678-number-of-senior-citizens](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2678-number-of-senior-citizens) |
+| [2965-find-missing-and-repeated-values](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0441-arranging-coins) |
 | [0836-rectangle-overlap](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0836-rectangle-overlap) |
+| [2965-find-missing-and-repeated-values](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3871-count-commas-in-range-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3871-count-commas-in-range-ii) |
 ## Binary Search
 |  |
