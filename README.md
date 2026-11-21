@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
