@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0929-unique-email-addresses) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0791-custom-sort-string) |
 | [0929-unique-email-addresses](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0929-unique-email-addresses) |
+| [1189-maximum-number-of-balloons](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1408-string-matching-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1408-string-matching-in-an-array) |
 | [1598-crawler-log-folder](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1598-crawler-log-folder) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
