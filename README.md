@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0929-unique-email-addresses) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2352-equal-row-and-column-pairs) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1408-string-matching-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aayushsinghthapa-cloud/leetcode-questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
